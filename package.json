@@ -1,0 +1,24 @@
+{
+  "name": "siparis-lyv",
+  "version": "0.0.1",
+  "description": "lyv için yapılan özel bir sipariş.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "mzrdev",
+    "mzr"
+  ],
+  "author": "mzrdev",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "gamedig": "^5.0.0-beta.2",
+    "glob": "^10.3.12",
+    "mzrdb": "^1.1.0",
+    "mzrdjs": "^1.0.1",
+    "path": "^0.12.7"
+  }
+}

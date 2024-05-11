@@ -1,0 +1,6 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "!",
+    "kurucular": ["SIZIN_IDNIZ"],
+    "defaultBasvuruSorular": ["İsmin ve Yaşın", "Tecrüben", "Aktiflik Süren", "Neler Yapabilirsin"]
+}
